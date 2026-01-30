@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+scikit-learn
+gensim
+pymongo
+mysql-connector-python
+datasets
